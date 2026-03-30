@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Baqi</h1>
-<h3 align="center">Backend Developer | Django • FastAPI • Scalable APIs</h3>
+<h3 align="center">Backend Developer | Django Rest Framework• FastAPI • Scalable APIs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulbaqi23&label=Profile%20views&color=0e75b6&style=flat" />
