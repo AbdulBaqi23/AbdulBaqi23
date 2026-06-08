@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🚀 Backend Developer with strong focus on building **scalable APIs**
 - 🔭 Currently working at **Enigmatix Pvt Ltd**
-- 🧠 Skilled in **Django, DRF, FastAPI, Docker**
+- 🧠 Skilled in **Django, DRF, FastAPI, Docker, Postgres, Sqlite**
 - 💡 Passionate about **clean architecture & performance optimization**
 - 📫 Reach me at: **abaqi429@gmail.com**
 
