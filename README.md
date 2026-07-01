@@ -40,7 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAbdulBaqi&theme=tokyonight" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAbdulBaqi&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-</p>
 
 ---
 
