@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/selenium.png" width="50" height="45" style="vertical-align: middle;">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/sqlitebrowser.png" width="50" height="45" style="vertical-align: middle;">
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/postgresql.png" width="50" height="45" style="vertical-align: middle;">
-  <!-- img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmJ1XamBV67ltIwcRYzM42XotG5RoUUlWYG3ZbhklC2MeTVW-" width="50" height="45" style="vertical-align: middle;" -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmJ1XamBV67ltIwcRYzM42XotG5RoUUlWYG3ZbhklC2MeTVW-" width="50" height="45" style="vertical-align: middle;" />
   <img src="https://user-images.githubusercontent.com/96035297/186022424-f96144ad-7b39-4add-a0dc-3c0ec400124f.png" width="65" height="58" style="vertical-align: middle;" />
 </p>
 
